@@ -1,0 +1,66 @@
+Name: rana
+Email: ranareda2226@gmail.com
+Address: kafr elshikh
+Phone: 01554488773
+Note: great
+Cart: Array
+(
+    [prodact1] => Array
+        (
+            [price] => 9.99
+            [qty] => 1
+        )
+
+    [prdact2] => Array
+        (
+            [price] => 19.99
+            [qty] => 2
+        )
+
+)
+
+------------------
+Name: rana
+Email: ranareda2226@gmail.com
+Address: kafr elshikh
+Phone: 01554488773
+Note: great
+Cart: Array
+(
+    [Special Item] => Array
+        (
+            [price] => 18
+            [qty] => 1
+        )
+
+    [Fancy Product] => Array
+        (
+            [price] => 40
+            [qty] => 1
+        )
+
+)
+
+------------------
+Name: rana
+Email: ranareda2226@gmail.com
+Address: kafr elshikh
+Phone: 0155446677
+Note: great
+Cart: Array
+(
+    [Fancy Product] => Array
+        (
+            [price] => 40
+            [qty] => 1
+        )
+
+    [Special Item] => Array
+        (
+            [price] => 18
+            [qty] => 1
+        )
+
+)
+
+------------------
